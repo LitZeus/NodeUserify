@@ -27,7 +27,7 @@ npm install
 
 3. Set up environment variables:
 
-Create a `.env` file in the root directory and add your MongoDB Atlas connection URI.
+Create a `config.env` file in the root directory and add your MongoDB Atlas connection URI.
 
 ```
 MONGO_URI=mongodb+srv://username:password@host/database
